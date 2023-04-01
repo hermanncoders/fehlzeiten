@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is a flutter client to be used with the backend repository found here.
+This project is a flutter client to be used with the backend repository found here: https://github.com/hermanncoders/fehlzeiten_backend.
 
 ## History
 
